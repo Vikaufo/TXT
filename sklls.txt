@@ -1,0 +1,12 @@
+Manual_testing
+Bash
+Git
+JSON
+XML
+Postman
+Fidler
+Dev_Tools
+Android_Studio
+Charles
+SQL
+Jmeter
