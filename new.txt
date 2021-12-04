@@ -1,0 +1,5 @@
+Person:
+name: Shablova Viktoria
+age: 23
+pet: cat
+future expected salary: 1000$
