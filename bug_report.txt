@@ -7,6 +7,6 @@ Description:
         1 Open the "Menu"
         2. Go to "Profile"
         3. Click "Edit Profile"
-Actual result: Stay on the page "Profile"
-Expected result: The profile editing window opens
+        Actual result: Stay on the page "Profile"
+        Expected result: The profile editing window opens
 Assigned to: Automatically
