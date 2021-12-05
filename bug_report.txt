@@ -4,9 +4,10 @@ Severity: Major
 Priority: Medium
 Description:
         Steps to reproduce: 
-        1 Open the "Menu"
-        2. Go to "Profile"
-        3. Click "Edit Profile"
+        1. Log in with your username and password
+        2. Open the "Menu"
+        3. Go to "Profile"
+        4. Click "Edit Profile"
         Actual result: Stay on the page "Profile"
         Expected result: The profile editing window opens
 Assigned to: Automatically
