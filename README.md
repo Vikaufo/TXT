@@ -10,6 +10,7 @@
  3. **Внутри локального TXT создать файл “new.txt”.**
  
 cd TXT 
+
 touch new.txt
 
  4. **Добавить файл под гит.**
@@ -31,7 +32,9 @@ vim new.txt (i - инфа о себе) esc :wq
  8. **Отправить изменения на внешний репозиторий.**
  
 git add .
+
 git commit -m "Modifided file"
+
 git push
 
  9. **Создать файл preferences.txt**
@@ -43,8 +46,9 @@ touch preferences.txt
 vim preferences.txt (i - предпочтения) esc :wq
 
  11. **Создать файл sklls.txt добавить информацию о скиллах которые будут изучены на курсе в формате TXT**
- 
+
 touch skills.txt
+
 vim (i - навыки) esc :wq
 
  12. **Сделать коммит в одну строку.**
